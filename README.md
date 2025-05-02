@@ -1,5 +1,5 @@
-<h1 align="center">Привет 👋, я Артур</h1>
-<p align="center">🎌 React-разработчик из 🇷🇺, мне 17 лет</p>
+<h1 align="center">Hi 👋, I'm Arthur</h1>
+<p align="center">🎌 frontend-developer from 🇷🇺</p>
 
 <p align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHZ1eWgwd3pqdThrd2Z5NDcxdXZ4N254aTM1MzVleW9jZGc2dmFiaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lXOI5Bj5bndSw/giphy.gif" alt="sakura gif" width="600"/>
@@ -9,10 +9,9 @@
 
 ### 🧠 Обо мне
 
-- 💻 Сейчас развиваюсь как Frontend-разработчик
+- 💻 Развиваюсь как Frontend-developer
 - 📚 Изучаю TypeScript и углубляю знания по React
-- 🌱 Использую чистую архитектуру, FSD, Tailwind, и пробую новые вещи
-- 📍 Хочу попасть в команду, где можно учиться и расти
+- 🌱 Использую чистую архитектуру, FSD, и пробую новые технологии
 
 ---
 
